@@ -9,7 +9,7 @@
 # :open_book:	Cursos 
 
 ### | Decolando em TW: da API á documentação
-*Hotmart (2023)*
+*Hotmart (Cursando)*
 
 ### | Technical Writing
 *Fenestra (2022)*
