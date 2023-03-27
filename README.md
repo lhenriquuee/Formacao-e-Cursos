@@ -11,6 +11,9 @@
 ### | Decolando em TW: da API á documentação
 *Hotmart (Cursando)*
 
+### | Trilhando sua carreira em Techincal Writing
+*Hotmart (2023)*
+
 ### | Technical Writing
 *Fenestra (2022)*
 
